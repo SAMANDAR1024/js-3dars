@@ -305,27 +305,27 @@
 
 // // 15-MISOL👇
 
-let a = +prompt("a sonini kiritng!");
-let b = +prompt("b sonini kiritng!");
-let c = +prompt("c sonini kiritng!");
+// let a = +prompt("a sonini kiritng!");
+// let b = +prompt("b sonini kiritng!");
+// let c = +prompt("c sonini kiritng!");
 
-let ort;
-let max;
+// let ort;
+// let max;
 
-if( a < b && a > c || a > b && a < c ){
-    ort = a;
-}else if( b < a && b > c || b > a && b < c ){
-    ort =b;
-}else {
-    ort = c;
-}
+// if( a < b && a > c || a > b && a < c ){
+//     ort = a;
+// }else if( b < a && b > c || b > a && b < c ){
+//     ort =b;
+// }else {
+//     ort = c;
+// }
 
-if( a > b && a > c ){
-    max = a
-}else if( b > a && b > c ){
-    max = b;
-}else {
-    max = c;
-}
+// if( a > b && a > c ){
+//     max = a
+// }else if( b > a && b > c ){
+//     max = b;
+// }else {
+//     max = c;
+// }
 
-alert(`Maximum ${max} va O'rtacha ${ort}, shu sonlarning yi'gindisi eng kotta bo'ladi`)
+// alert(`Maximum ${max} va O'rtacha ${ort}, shu sonlarning yi'gindisi eng kotta bo'ladi`)
